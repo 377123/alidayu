@@ -1,0 +1,21 @@
+{
+    "name": "377123/alidayu",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "authors": [
+        {
+            "name": "377123",
+            "email": "53623075@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+          "src/"
+        ],
+        "psr-0": {
+          "377123\\alidayu\\": "src/"
+        }
+  }
+}
